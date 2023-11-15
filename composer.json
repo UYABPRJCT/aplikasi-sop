@@ -1,0 +1,15 @@
+{
+    "name": "skella/simple-auth",
+    "description": "SimplAuth for Codeigniter 4",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Geeklabs",
+            "email": "geeklabsonline@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
